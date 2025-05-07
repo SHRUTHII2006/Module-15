@@ -1,7 +1,7 @@
 # Ex. No: 15A - Build a Binary Tree with Float Values
 
 ## AIM:
-To write a Python program to build a binary tree with a root, left, and right node using floating-point values.
+To write a Python program to build a binary tree with a root, left, and right node using string values.
 
 ---
 
@@ -36,7 +36,8 @@ for i in root.values:
 ## OUTPUT
 
 ```
-![image](https://github.com/user-attachments/assets/82f4b22c-407e-43db-a680-40b9cbe35066)
+![image](https://github.com/user-attachments/assets/723441bb-e647-45a7-93a8-b09d74155d3e)
+
 
 
 ```
